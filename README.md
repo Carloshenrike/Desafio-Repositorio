@@ -1,2 +1,4 @@
-# Desafio-Repositorio
-    Criando um repositório
+# Desáfio Repositóio sobre Git/ Github da DIO
+Criando um repositório no Github
+## Links Úteis
+[Sintaxe Básica Markdow](https://www.markdownguide.org/basic-syntax/)
