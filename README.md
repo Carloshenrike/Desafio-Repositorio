@@ -2,3 +2,5 @@
 Criando um repositório no Github
 ## Links Úteis
 [Sintaxe Básica Markdow](https://www.markdownguide.org/basic-syntax/)
+
+Estudando as alterações de Git/Github
